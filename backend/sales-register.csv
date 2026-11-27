@@ -1,0 +1,3 @@
+"Order Number","Date","Customer","Product","Quantity","Status","Invoice","Total Amount"
+"SO-002","2026-11-27","Distributor B","Murukku 200g","120","PENDING","",""
+"SO-001","2026-11-27","Retailer A","Murukku 200g","150","DISPATCHED","INV-001","7875.00"
