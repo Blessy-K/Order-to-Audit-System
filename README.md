@@ -4,7 +4,7 @@ A web-based order, production, inventory, and audit management system designed f
 
 ## Demo
 
-[Watch the Demo Video](demo.mp4)
+![Order-to-Audit System Demo](demo.gif)
 
 ## Features
 
